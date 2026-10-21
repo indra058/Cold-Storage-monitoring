@@ -1,0 +1,46 @@
+{
+    "model_architecture": {
+        "input_shape": [
+            10,
+            1
+        ],
+        "layers": [
+            {
+                "type": "LSTM",
+                "units": 64,
+                "return_sequences": true
+            },
+            {
+                "type": "LSTM",
+                "units": 32,
+                "return_sequences": false
+            },
+            {
+                "type": "Dense",
+                "units": 1,
+                "activation": "linear"
+            }
+        ],
+        "optimizer": "Adam (lr=0.001)",
+        "loss_function": "MSE"
+    },
+    "dataset_split": {
+        "total_samples": 1190,
+        "training_samples": 810,
+        "validation_samples": 142,
+        "testing_samples": 238
+    },
+    "training_performance": {
+        "epochs_completed": 60,
+        "final_training_loss_mse": 0.000705,
+        "final_validation_loss_mse": 0.00074,
+        "test_mae_celsius": 0.1577,
+        "test_rmse_celsius": 0.2151
+    },
+    "artifacts_generated": [
+        "models\\lstm_temperature_model.keras",
+        "models\\training_validation_loss.png",
+        "models\\test_actual_vs_predicted.png",
+        "models\\training_metrics.json"
+    ]
+}

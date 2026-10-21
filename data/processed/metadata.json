@@ -1,0 +1,61 @@
+{
+    "dataset_statistics": {
+        "raw_rows": 1200,
+        "clean_rows": 1200,
+        "columns": [
+            "Timestamp",
+            "Temperature",
+            "Humidity",
+            "Status"
+        ],
+        "missing_values_found": {
+            "Timestamp": 0,
+            "Temperature": 0,
+            "Humidity": 0,
+            "Status": 0
+        },
+        "temperature_min": 3.26,
+        "temperature_max": 10.8,
+        "temperature_mean": 5.29,
+        "humidity_min": 65.1,
+        "humidity_max": 74.6,
+        "humidity_mean": 70.33,
+        "timestamp_start": "2026-09-30 00:00:00",
+        "timestamp_end": "2026-09-30 19:59:00"
+    },
+    "preprocessing_config": {
+        "window_size": 10,
+        "scaler": "MinMaxScaler(0, 1)",
+        "scaler_data_min": 3.26,
+        "scaler_data_max": 10.8,
+        "scaler_scale": 0.1326259946949602
+    },
+    "sequence_shapes": {
+        "X_shape": [
+            1190,
+            10,
+            1
+        ],
+        "y_shape": [
+            1190,
+            1
+        ],
+        "X_raw_shape": [
+            1190,
+            10
+        ],
+        "y_raw_shape": [
+            1190
+        ]
+    },
+    "files_generated": [
+        "cleaned_sensor_data.csv",
+        "X.npy",
+        "y.npy",
+        "X_raw.npy",
+        "y_raw.npy",
+        "scaler.pkl",
+        "temperature_timeseries.png",
+        "metadata.json"
+    ]
+}

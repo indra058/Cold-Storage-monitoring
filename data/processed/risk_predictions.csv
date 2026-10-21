@@ -1,0 +1,1191 @@
+Timestamp,Actual_Temperature,Predicted_Temperature,Temperature_Trend,Risk_Level,Alert_Message
+2026-09-30 00:10:00,5.22,5.23,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:11:00,5.28,5.33,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:12:00,5.43,5.42,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:13:00,5.51,5.52,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:14:00,5.60,5.61,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:15:00,5.67,5.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:16:00,5.52,5.78,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:17:00,5.42,5.79,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:18:00,5.30,5.70,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:19:00,5.24,5.55,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:20:00,5.02,5.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:21:00,4.84,5.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:22:00,4.73,4.94,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:23:00,4.65,4.73,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:24:00,4.46,4.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:25:00,4.27,4.42,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:26:00,4.14,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:27:00,3.99,4.14,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:28:00,3.91,4.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:29:00,3.82,3.92,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:30:00,3.74,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:31:00,3.62,3.79,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:32:00,3.50,3.74,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:33:00,3.41,3.69,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:34:00,3.26,3.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:35:00,3.36,3.57,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:36:00,3.47,3.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:37:00,3.55,3.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:38:00,3.67,3.64,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:39:00,3.81,3.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:40:00,3.94,3.93,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:41:00,3.95,4.11,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 00:42:00,4.04,4.25,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 00:43:00,4.08,4.36,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 00:44:00,4.24,4.43,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:45:00,4.32,4.48,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:46:00,4.40,4.55,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:47:00,4.48,4.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:48:00,4.52,4.69,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:49:00,4.58,4.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:50:00,4.69,4.80,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:51:00,4.76,4.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:52:00,4.84,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:53:00,4.92,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:54:00,5.00,5.04,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:55:00,5.06,5.12,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:56:00,5.17,5.19,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:57:00,5.24,5.26,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:58:00,5.39,5.34,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 00:59:00,5.50,5.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:00:00,5.63,5.55,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:01:00,5.51,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:02:00,5.35,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:03:00,5.26,5.69,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:04:00,5.10,5.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:05:00,4.98,5.36,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:06:00,4.87,5.13,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:07:00,4.70,4.92,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:08:00,4.56,4.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:09:00,4.45,4.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:10:00,4.31,4.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:11:00,4.14,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:12:00,4.01,4.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:13:00,3.85,4.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:14:00,3.76,3.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:15:00,3.64,3.83,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:16:00,3.56,3.75,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:17:00,3.43,3.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:18:00,3.35,3.62,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:19:00,3.44,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:20:00,3.46,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:21:00,3.52,3.59,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:22:00,3.58,3.66,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:23:00,3.64,3.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:24:00,3.80,3.85,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:25:00,3.86,3.97,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:26:00,3.98,4.09,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:27:00,4.02,4.21,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:28:00,4.08,4.31,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:29:00,4.13,4.38,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:30:00,4.21,4.43,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:31:00,4.21,4.48,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:32:00,4.26,4.50,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:33:00,4.41,4.52,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:34:00,4.46,4.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:35:00,4.59,4.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:36:00,4.73,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:37:00,4.84,4.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:38:00,4.96,4.94,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:39:00,5.02,5.08,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:40:00,5.17,5.19,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:41:00,5.20,5.31,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:42:00,5.30,5.39,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:43:00,5.37,5.46,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:44:00,5.45,5.52,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:45:00,5.48,5.57,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:46:00,5.59,5.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:47:00,5.65,5.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:48:00,5.54,5.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:49:00,5.44,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:50:00,5.28,5.67,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:51:00,5.10,5.53,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:52:00,4.98,5.33,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:53:00,4.83,5.10,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:54:00,4.72,4.87,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:55:00,4.59,4.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:56:00,4.49,4.51,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:57:00,4.32,4.40,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:58:00,4.16,4.29,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 01:59:00,4.06,4.18,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:00:00,3.92,4.08,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:01:00,3.81,3.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:02:00,4.16,3.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:03:00,4.38,3.92,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:04:00,4.73,4.07,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:05:00,5.02,4.37,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:06:00,5.22,4.77,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:07:00,5.49,5.19,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:08:00,5.73,5.59,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:09:00,6.00,5.95,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:10:00,6.29,6.27,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:11:00,6.59,6.56,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:12:00,6.86,6.84,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:13:00,7.17,7.14,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:14:00,7.37,7.46,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:15:00,7.63,7.76,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 02:16:00,7.86,8.04,RISING,WARNING,Temperature exceeded safe upper threshold (8.04 °C > 8.0 °C)
+2026-09-30 02:17:00,8.10,8.28,RISING,WARNING,Temperature exceeded safe upper threshold (8.28 °C > 8.0 °C)
+2026-09-30 02:18:00,8.41,8.49,RISING,WARNING,Temperature exceeded safe upper threshold (8.49 °C > 8.0 °C)
+2026-09-30 02:19:00,8.66,8.72,RISING,WARNING,Temperature exceeded safe upper threshold (8.72 °C > 8.0 °C)
+2026-09-30 02:20:00,8.90,8.94,RISING,WARNING,Temperature exceeded safe upper threshold (8.94 °C > 8.0 °C)
+2026-09-30 02:21:00,9.04,9.16,RISING,WARNING,Temperature exceeded safe upper threshold (9.16 °C > 8.0 °C)
+2026-09-30 02:22:00,9.21,9.32,RISING,WARNING,Temperature exceeded safe upper threshold (9.32 °C > 8.0 °C)
+2026-09-30 02:23:00,9.48,9.43,RISING,WARNING,Temperature exceeded safe upper threshold (9.43 °C > 8.0 °C)
+2026-09-30 02:24:00,9.60,9.55,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.55 °C > 8.0 °C)
+2026-09-30 02:25:00,9.82,9.65,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.65 °C > 8.0 °C)
+2026-09-30 02:26:00,9.99,9.75,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.75 °C > 8.0 °C)
+2026-09-30 02:27:00,10.16,9.85,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.85 °C > 8.0 °C)
+2026-09-30 02:28:00,9.93,9.95,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.95 °C > 8.0 °C)
+2026-09-30 02:29:00,9.68,9.92,STABLE,WARNING,Temperature exceeded safe upper threshold (9.92 °C > 8.0 °C)
+2026-09-30 02:30:00,9.42,9.73,STABLE,WARNING,Temperature exceeded safe upper threshold (9.73 °C > 8.0 °C)
+2026-09-30 02:31:00,9.24,9.43,FALLING,WARNING,Temperature exceeded safe upper threshold (9.43 °C > 8.0 °C)
+2026-09-30 02:32:00,9.05,9.10,FALLING,WARNING,Temperature exceeded safe upper threshold (9.10 °C > 8.0 °C)
+2026-09-30 02:33:00,8.82,8.79,FALLING,WARNING,Temperature exceeded safe upper threshold (8.79 °C > 8.0 °C)
+2026-09-30 02:34:00,8.62,8.53,FALLING,WARNING,Temperature exceeded safe upper threshold (8.53 °C > 8.0 °C)
+2026-09-30 02:35:00,8.39,8.29,FALLING,WARNING,Temperature exceeded safe upper threshold (8.29 °C > 8.0 °C)
+2026-09-30 02:36:00,8.14,8.09,FALLING,WARNING,Temperature exceeded safe upper threshold (8.09 °C > 8.0 °C)
+2026-09-30 02:37:00,7.90,7.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:38:00,7.63,7.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:39:00,7.38,7.49,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:40:00,7.12,7.27,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:41:00,6.86,7.03,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:42:00,6.65,6.79,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:43:00,6.47,6.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:44:00,6.23,6.33,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:45:00,6.01,6.11,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:46:00,5.86,5.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:47:00,5.68,5.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:48:00,5.47,5.50,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:49:00,5.30,5.31,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:50:00,5.07,5.12,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:51:00,4.89,4.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:52:00,4.71,4.74,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:53:00,4.55,4.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:54:00,4.36,4.40,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:55:00,4.21,4.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:56:00,4.08,4.11,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:57:00,3.92,4.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:58:00,3.81,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 02:59:00,3.67,3.82,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:00:00,3.59,3.74,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:01:00,3.45,3.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:02:00,3.33,3.62,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:03:00,3.40,3.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:04:00,3.48,3.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:05:00,3.55,3.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:06:00,3.64,3.63,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:07:00,3.75,3.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:08:00,3.89,3.89,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:09:00,3.97,4.05,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:10:00,4.07,4.20,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:11:00,4.15,4.33,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:12:00,4.28,4.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:13:00,4.41,4.53,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:14:00,4.57,4.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:15:00,4.70,4.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:16:00,4.78,4.87,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:17:00,4.92,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:18:00,5.02,5.10,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:19:00,5.10,5.21,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:20:00,5.13,5.30,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:21:00,5.22,5.36,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:22:00,5.33,5.40,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:23:00,5.52,5.45,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:24:00,5.68,5.55,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:25:00,5.52,5.69,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:26:00,5.33,5.76,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:27:00,5.16,5.71,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:28:00,5.07,5.54,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:29:00,4.93,5.32,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:30:00,4.78,5.08,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:31:00,4.67,4.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:32:00,4.55,4.63,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:33:00,4.43,4.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:34:00,4.33,4.36,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:35:00,4.19,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:36:00,4.04,4.20,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:37:00,3.93,4.10,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:38:00,3.79,4.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:39:00,3.62,3.91,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:40:00,3.46,3.80,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:41:00,3.31,3.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:42:00,3.40,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:43:00,3.51,3.50,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:44:00,3.62,3.52,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:45:00,3.76,3.61,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:46:00,3.84,3.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:47:00,3.89,3.95,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:48:00,4.02,4.11,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:49:00,4.15,4.26,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:50:00,4.25,4.39,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 03:51:00,4.34,4.50,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:52:00,4.48,4.59,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:53:00,4.64,4.69,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:54:00,4.71,4.80,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:55:00,4.83,4.91,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:56:00,4.95,5.02,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:57:00,5.04,5.13,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:58:00,5.13,5.22,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 03:59:00,5.24,5.31,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:00:00,5.33,5.39,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:01:00,5.39,5.47,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:02:00,5.45,5.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:03:00,5.67,5.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:04:00,5.85,5.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:05:00,6.13,5.84,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:06:00,6.30,6.06,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:07:00,6.57,6.32,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:08:00,6.83,6.62,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:09:00,6.97,6.94,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:10:00,7.12,7.23,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:11:00,7.27,7.46,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:12:00,7.53,7.64,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:13:00,7.79,7.81,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 04:14:00,7.98,8.01,RISING,WARNING,Temperature exceeded safe upper threshold (8.01 °C > 8.0 °C)
+2026-09-30 04:15:00,8.15,8.22,RISING,WARNING,Temperature exceeded safe upper threshold (8.22 °C > 8.0 °C)
+2026-09-30 04:16:00,8.31,8.42,RISING,WARNING,Temperature exceeded safe upper threshold (8.42 °C > 8.0 °C)
+2026-09-30 04:17:00,8.50,8.59,RISING,WARNING,Temperature exceeded safe upper threshold (8.59 °C > 8.0 °C)
+2026-09-30 04:18:00,8.76,8.74,RISING,WARNING,Temperature exceeded safe upper threshold (8.74 °C > 8.0 °C)
+2026-09-30 04:19:00,8.96,8.91,RISING,WARNING,Temperature exceeded safe upper threshold (8.91 °C > 8.0 °C)
+2026-09-30 04:20:00,9.09,9.08,RISING,WARNING,Temperature exceeded safe upper threshold (9.08 °C > 8.0 °C)
+2026-09-30 04:21:00,9.33,9.22,RISING,WARNING,Temperature exceeded safe upper threshold (9.22 °C > 8.0 °C)
+2026-09-30 04:22:00,9.42,9.36,RISING,WARNING,Temperature exceeded safe upper threshold (9.36 °C > 8.0 °C)
+2026-09-30 04:23:00,9.65,9.47,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.47 °C > 8.0 °C)
+2026-09-30 04:24:00,9.85,9.58,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.58 °C > 8.0 °C)
+2026-09-30 04:25:00,9.98,9.71,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.71 °C > 8.0 °C)
+2026-09-30 04:26:00,10.05,9.82,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.82 °C > 8.0 °C)
+2026-09-30 04:27:00,10.14,9.89,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.89 °C > 8.0 °C)
+2026-09-30 04:28:00,9.87,9.92,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.92 °C > 8.0 °C)
+2026-09-30 04:29:00,9.61,9.82,STABLE,WARNING,Temperature exceeded safe upper threshold (9.82 °C > 8.0 °C)
+2026-09-30 04:30:00,9.37,9.59,STABLE,WARNING,Temperature exceeded safe upper threshold (9.59 °C > 8.0 °C)
+2026-09-30 04:31:00,9.09,9.28,FALLING,WARNING,Temperature exceeded safe upper threshold (9.28 °C > 8.0 °C)
+2026-09-30 04:32:00,8.82,8.94,FALLING,WARNING,Temperature exceeded safe upper threshold (8.94 °C > 8.0 °C)
+2026-09-30 04:33:00,8.60,8.60,FALLING,WARNING,Temperature exceeded safe upper threshold (8.60 °C > 8.0 °C)
+2026-09-30 04:34:00,8.35,8.30,FALLING,WARNING,Temperature exceeded safe upper threshold (8.30 °C > 8.0 °C)
+2026-09-30 04:35:00,8.04,8.04,FALLING,WARNING,Temperature exceeded safe upper threshold (8.04 °C > 8.0 °C)
+2026-09-30 04:36:00,7.73,7.80,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:37:00,7.41,7.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:38:00,7.20,7.29,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:39:00,6.92,7.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:40:00,6.66,6.79,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:41:00,6.42,6.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:42:00,6.18,6.30,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:43:00,5.91,6.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:44:00,5.63,5.79,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:45:00,5.35,5.52,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:46:00,5.16,5.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:47:00,4.93,4.96,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:48:00,4.71,4.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:49:00,4.59,4.48,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:50:00,4.43,4.31,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:51:00,4.28,4.18,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:52:00,4.18,4.09,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:53:00,4.08,4.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:54:00,3.93,3.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:55:00,3.82,3.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:56:00,3.66,3.87,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:57:00,3.48,3.80,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:58:00,3.38,3.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 04:59:00,3.52,3.60,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:00:00,3.53,3.57,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:01:00,3.65,3.59,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:02:00,3.81,3.67,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:03:00,3.94,3.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:04:00,4.07,4.00,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:05:00,4.26,4.20,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:06:00,4.35,4.41,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:07:00,4.45,4.59,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:08:00,4.45,4.72,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:09:00,4.51,4.80,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:10:00,4.60,4.84,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:11:00,4.66,4.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:12:00,4.71,4.88,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:13:00,4.81,4.90,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:14:00,4.86,4.94,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:15:00,5.00,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:16:00,5.05,5.07,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:17:00,5.13,5.15,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:18:00,5.23,5.24,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:19:00,5.33,5.32,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:20:00,5.45,5.41,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:21:00,5.54,5.51,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:22:00,5.64,5.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:23:00,5.47,5.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:24:00,5.35,5.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:25:00,5.16,5.67,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:26:00,5.08,5.49,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:27:00,4.98,5.27,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:28:00,4.85,5.06,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:29:00,4.80,4.86,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:30:00,4.69,4.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:31:00,4.59,4.60,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:32:00,4.43,4.52,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:33:00,4.27,4.44,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:34:00,4.22,4.34,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:35:00,4.11,4.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:36:00,3.97,4.14,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:37:00,3.83,4.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:38:00,3.70,3.95,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:39:00,3.51,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:40:00,3.36,3.74,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:41:00,3.44,3.62,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:42:00,3.59,3.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:43:00,3.77,3.57,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:44:00,3.82,3.68,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:45:00,3.92,3.85,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:46:00,3.97,4.03,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:47:00,4.05,4.19,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:48:00,4.12,4.33,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 05:49:00,4.21,4.42,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:50:00,4.32,4.49,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:51:00,4.44,4.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:52:00,4.53,4.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:53:00,4.63,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:54:00,4.65,4.81,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:55:00,4.72,4.88,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:56:00,4.83,4.94,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:57:00,4.90,4.99,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:58:00,4.96,5.05,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 05:59:00,5.11,5.10,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:00:00,5.20,5.18,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:01:00,5.29,5.27,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:02:00,5.38,5.38,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:03:00,5.45,5.48,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:04:00,5.58,5.57,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:05:00,5.59,5.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:06:00,5.42,5.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:07:00,5.28,5.71,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:08:00,5.17,5.60,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:09:00,5.12,5.41,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:10:00,4.95,5.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:11:00,4.87,5.03,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:12:00,5.12,4.86,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:13:00,5.37,4.82,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:14:00,5.62,4.94,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:15:00,5.75,5.21,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:16:00,6.03,5.55,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:17:00,6.27,5.92,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:18:00,6.46,6.29,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:19:00,6.72,6.62,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:20:00,6.89,6.93,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:21:00,7.10,7.19,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:22:00,7.34,7.40,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:23:00,7.43,7.62,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:24:00,7.52,7.80,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:25:00,7.71,7.92,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 06:26:00,7.84,8.02,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.02 °C > 8.0 °C)
+2026-09-30 06:27:00,8.01,8.12,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.12 °C > 8.0 °C)
+2026-09-30 06:28:00,8.18,8.23,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.23 °C > 8.0 °C)
+2026-09-30 06:29:00,8.36,8.35,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.35 °C > 8.0 °C)
+2026-09-30 06:30:00,8.51,8.49,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.49 °C > 8.0 °C)
+2026-09-30 06:31:00,8.65,8.64,RISING,WARNING,Temperature exceeded safe upper threshold (8.64 °C > 8.0 °C)
+2026-09-30 06:32:00,8.71,8.78,RISING,WARNING,Temperature exceeded safe upper threshold (8.78 °C > 8.0 °C)
+2026-09-30 06:33:00,8.73,8.88,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.88 °C > 8.0 °C)
+2026-09-30 06:34:00,8.52,8.91,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (8.91 °C > 8.0 °C)
+2026-09-30 06:35:00,8.36,8.81,STABLE,WARNING,Temperature exceeded safe upper threshold (8.81 °C > 8.0 °C)
+2026-09-30 06:36:00,8.13,8.62,STABLE,WARNING,Temperature exceeded safe upper threshold (8.62 °C > 8.0 °C)
+2026-09-30 06:37:00,7.96,8.35,FALLING,WARNING,Temperature exceeded safe upper threshold (8.35 °C > 8.0 °C)
+2026-09-30 06:38:00,7.83,8.07,FALLING,WARNING,Temperature exceeded safe upper threshold (8.07 °C > 8.0 °C)
+2026-09-30 06:39:00,7.62,7.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:40:00,7.49,7.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:41:00,7.26,7.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:42:00,7.07,7.20,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:43:00,6.85,7.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:44:00,6.69,6.83,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:45:00,6.58,6.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:46:00,6.43,6.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:47:00,6.26,6.31,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:48:00,6.09,6.16,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:49:00,5.94,6.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:50:00,5.82,5.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:51:00,5.69,5.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:52:00,5.51,5.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:53:00,5.33,5.40,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:54:00,5.16,5.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:55:00,4.98,5.06,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:56:00,4.89,4.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:57:00,4.70,4.73,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:58:00,4.54,4.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 06:59:00,4.49,4.44,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:00:00,4.33,4.34,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:01:00,4.18,4.25,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:02:00,4.08,4.16,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:03:00,3.92,4.08,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:04:00,3.75,3.99,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:05:00,3.62,3.88,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:06:00,3.52,3.77,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:07:00,3.42,3.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:08:00,3.55,3.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:09:00,3.64,3.57,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:10:00,3.71,3.63,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:11:00,3.83,3.74,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:12:00,3.93,3.89,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:13:00,3.99,4.06,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:14:00,4.14,4.21,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:15:00,4.20,4.35,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:16:00,4.27,4.46,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:17:00,4.34,4.55,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:18:00,4.41,4.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:19:00,4.44,4.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:20:00,4.53,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:21:00,4.58,4.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:22:00,4.72,4.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:23:00,4.83,4.83,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:24:00,4.95,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:25:00,5.11,5.03,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:26:00,5.16,5.17,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:27:00,5.26,5.29,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:28:00,5.36,5.41,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:29:00,5.43,5.51,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:30:00,5.52,5.59,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:31:00,5.59,5.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:32:00,5.55,5.72,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:33:00,5.43,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:34:00,5.27,5.69,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:35:00,5.12,5.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:36:00,5.00,5.36,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:37:00,4.88,5.14,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:38:00,4.73,4.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:39:00,4.63,4.73,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:40:00,4.48,4.57,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:41:00,4.32,4.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:42:00,4.09,4.31,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:43:00,3.93,4.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:44:00,3.71,4.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:45:00,3.55,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:46:00,3.43,3.69,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:47:00,3.52,3.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:48:00,3.63,3.50,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:49:00,3.75,3.53,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:50:00,3.80,3.66,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:51:00,3.91,3.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:52:00,3.93,4.00,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:53:00,3.97,4.15,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:54:00,4.01,4.26,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 07:55:00,4.16,4.33,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:56:00,4.26,4.39,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:57:00,4.34,4.45,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:58:00,4.45,4.53,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 07:59:00,4.58,4.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:00:00,4.73,4.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:01:00,4.82,4.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:02:00,4.88,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:03:00,4.93,5.09,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:04:00,5.02,5.16,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:05:00,5.05,5.21,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:06:00,5.07,5.25,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:07:00,5.20,5.26,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:08:00,5.40,5.29,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:09:00,5.44,5.37,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:10:00,5.55,5.48,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:11:00,5.66,5.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:12:00,5.54,5.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:13:00,5.45,5.78,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:14:00,5.34,5.74,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:15:00,5.23,5.62,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:16:00,5.06,5.45,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:17:00,4.92,5.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:18:00,4.84,5.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:19:00,4.70,4.82,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:20:00,4.58,4.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:21:00,4.45,4.52,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:22:00,4.36,4.41,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:23:00,4.24,4.31,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:24:00,4.12,4.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:25:00,3.92,4.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:26:00,3.76,4.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:27:00,4.01,3.92,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:28:00,4.21,3.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:29:00,4.41,3.97,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:30:00,4.68,4.17,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:31:00,4.96,4.46,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:32:00,5.22,4.81,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:33:00,5.57,5.20,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:34:00,5.75,5.61,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:35:00,5.98,5.97,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:36:00,6.26,6.28,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:37:00,6.56,6.54,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:38:00,6.73,6.82,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:39:00,7.04,7.08,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:40:00,7.33,7.34,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:41:00,7.60,7.62,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:42:00,7.88,7.92,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 08:43:00,8.14,8.21,RISING,WARNING,Temperature exceeded safe upper threshold (8.21 °C > 8.0 °C)
+2026-09-30 08:44:00,8.30,8.50,RISING,WARNING,Temperature exceeded safe upper threshold (8.50 °C > 8.0 °C)
+2026-09-30 08:45:00,8.45,8.73,RISING,WARNING,Temperature exceeded safe upper threshold (8.73 °C > 8.0 °C)
+2026-09-30 08:46:00,8.73,8.87,RISING,WARNING,Temperature exceeded safe upper threshold (8.87 °C > 8.0 °C)
+2026-09-30 08:47:00,8.98,9.02,RISING,WARNING,Temperature exceeded safe upper threshold (9.02 °C > 8.0 °C)
+2026-09-30 08:48:00,9.05,9.17,RISING,WARNING,Temperature exceeded safe upper threshold (9.17 °C > 8.0 °C)
+2026-09-30 08:49:00,9.11,9.27,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.27 °C > 8.0 °C)
+2026-09-30 08:50:00,8.82,9.32,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.32 °C > 8.0 °C)
+2026-09-30 08:51:00,8.63,9.19,STABLE,WARNING,Temperature exceeded safe upper threshold (9.19 °C > 8.0 °C)
+2026-09-30 08:52:00,8.34,8.94,STABLE,WARNING,Temperature exceeded safe upper threshold (8.94 °C > 8.0 °C)
+2026-09-30 08:53:00,8.05,8.61,FALLING,WARNING,Temperature exceeded safe upper threshold (8.61 °C > 8.0 °C)
+2026-09-30 08:54:00,7.76,8.22,FALLING,WARNING,Temperature exceeded safe upper threshold (8.22 °C > 8.0 °C)
+2026-09-30 08:55:00,7.53,7.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:56:00,7.30,7.48,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:57:00,7.05,7.19,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:58:00,6.81,6.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 08:59:00,6.58,6.69,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:00:00,6.41,6.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:01:00,6.21,6.26,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:02:00,6.00,6.07,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:03:00,5.80,5.87,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:04:00,5.54,5.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:05:00,5.27,5.44,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:06:00,5.01,5.19,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:07:00,4.88,4.92,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:08:00,4.71,4.67,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:09:00,4.59,4.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:10:00,4.46,4.32,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:11:00,4.35,4.22,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:12:00,4.23,4.16,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:13:00,4.04,4.11,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:14:00,3.94,4.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:15:00,3.82,3.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:16:00,3.68,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:17:00,3.56,3.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:18:00,3.46,3.72,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:19:00,3.33,3.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:20:00,3.46,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:21:00,3.63,3.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:22:00,3.78,3.61,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:23:00,3.80,3.75,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:24:00,3.91,3.91,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:25:00,4.05,4.08,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 09:26:00,4.08,4.24,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 09:27:00,4.18,4.37,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 09:28:00,4.27,4.47,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:29:00,4.39,4.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:30:00,4.54,4.61,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:31:00,4.65,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:32:00,4.78,4.81,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:33:00,4.84,4.93,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:34:00,5.01,5.04,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:35:00,5.02,5.15,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:36:00,5.10,5.24,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:37:00,5.14,5.30,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:38:00,5.26,5.34,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:39:00,5.39,5.38,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:40:00,5.53,5.45,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:41:00,5.59,5.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:42:00,5.42,5.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:43:00,5.22,5.69,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:44:00,5.04,5.59,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:45:00,4.94,5.40,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:46:00,4.76,5.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:47:00,4.60,4.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:48:00,4.49,4.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:49:00,4.35,4.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:50:00,4.24,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:51:00,4.13,4.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:52:00,4.06,4.09,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:53:00,3.93,4.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:54:00,3.81,3.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:55:00,3.70,3.91,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:56:00,3.63,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:57:00,3.51,3.78,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:58:00,3.47,3.72,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 09:59:00,3.33,3.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:00:00,3.39,3.60,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:01:00,3.50,3.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:02:00,3.63,3.60,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:03:00,3.65,3.70,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:04:00,3.76,3.81,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:05:00,3.80,3.94,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:06:00,3.95,4.06,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:07:00,4.01,4.18,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:08:00,4.10,4.28,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:09:00,4.18,4.37,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:10:00,4.38,4.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:11:00,4.53,4.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:12:00,4.63,4.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:13:00,4.69,4.81,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:14:00,4.75,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:15:00,4.81,5.01,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:16:00,4.87,5.06,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:17:00,4.93,5.10,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:18:00,4.98,5.12,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:19:00,5.06,5.14,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:20:00,5.19,5.17,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:21:00,5.34,5.23,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:22:00,5.40,5.34,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:23:00,5.50,5.46,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:24:00,5.55,5.58,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:25:00,5.38,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:26:00,5.19,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:27:00,5.05,5.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:28:00,5.26,5.36,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:29:00,5.49,5.21,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:30:00,5.71,5.21,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:31:00,5.97,5.36,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:32:00,6.20,5.65,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:33:00,6.50,6.02,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:34:00,6.69,6.44,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:35:00,6.90,6.84,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:36:00,7.12,7.18,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:37:00,7.39,7.45,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:38:00,7.64,7.69,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:39:00,7.83,7.94,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 10:40:00,7.98,8.17,RISING,WARNING,Temperature exceeded safe upper threshold (8.17 °C > 8.0 °C)
+2026-09-30 10:41:00,8.24,8.36,RISING,WARNING,Temperature exceeded safe upper threshold (8.36 °C > 8.0 °C)
+2026-09-30 10:42:00,8.46,8.54,RISING,WARNING,Temperature exceeded safe upper threshold (8.54 °C > 8.0 °C)
+2026-09-30 10:43:00,8.66,8.72,RISING,WARNING,Temperature exceeded safe upper threshold (8.72 °C > 8.0 °C)
+2026-09-30 10:44:00,8.81,8.89,RISING,WARNING,Temperature exceeded safe upper threshold (8.89 °C > 8.0 °C)
+2026-09-30 10:45:00,9.04,9.04,RISING,WARNING,Temperature exceeded safe upper threshold (9.04 °C > 8.0 °C)
+2026-09-30 10:46:00,9.13,9.18,RISING,WARNING,Temperature exceeded safe upper threshold (9.18 °C > 8.0 °C)
+2026-09-30 10:47:00,9.27,9.28,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.28 °C > 8.0 °C)
+2026-09-30 10:48:00,9.37,9.35,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.35 °C > 8.0 °C)
+2026-09-30 10:49:00,9.53,9.41,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.41 °C > 8.0 °C)
+2026-09-30 10:50:00,9.29,9.46,SLIGHT RISE,WARNING,Temperature exceeded safe upper threshold (9.46 °C > 8.0 °C)
+2026-09-30 10:51:00,9.05,9.39,STABLE,WARNING,Temperature exceeded safe upper threshold (9.39 °C > 8.0 °C)
+2026-09-30 10:52:00,8.82,9.20,STABLE,WARNING,Temperature exceeded safe upper threshold (9.20 °C > 8.0 °C)
+2026-09-30 10:53:00,8.59,8.92,FALLING,WARNING,Temperature exceeded safe upper threshold (8.92 °C > 8.0 °C)
+2026-09-30 10:54:00,8.27,8.60,FALLING,WARNING,Temperature exceeded safe upper threshold (8.60 °C > 8.0 °C)
+2026-09-30 10:55:00,8.05,8.26,FALLING,WARNING,Temperature exceeded safe upper threshold (8.26 °C > 8.0 °C)
+2026-09-30 10:56:00,7.78,7.94,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:57:00,7.50,7.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:58:00,7.23,7.37,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 10:59:00,6.99,7.11,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:00:00,6.79,6.87,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:01:00,6.59,6.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:02:00,6.28,6.44,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:03:00,5.98,6.21,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:04:00,5.74,5.94,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:05:00,5.44,5.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:06:00,5.20,5.35,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:07:00,5.03,5.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:08:00,4.80,4.78,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:09:00,4.63,4.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:10:00,4.56,4.36,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:11:00,4.44,4.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:12:00,4.38,4.18,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:13:00,4.19,4.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:14:00,4.07,4.12,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:15:00,3.89,4.07,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:16:00,3.78,3.99,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:17:00,3.65,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:18:00,3.55,3.80,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:19:00,3.42,3.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:20:00,3.55,3.61,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:21:00,3.73,3.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:22:00,3.82,3.66,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:23:00,3.86,3.80,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:24:00,3.93,3.96,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:25:00,4.12,4.11,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 11:26:00,4.21,4.27,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 11:27:00,4.23,4.42,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 11:28:00,4.25,4.52,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 11:29:00,4.36,4.58,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:30:00,4.41,4.61,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:31:00,4.52,4.65,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:32:00,4.56,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:33:00,4.64,4.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:34:00,4.74,4.80,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:35:00,4.88,4.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:36:00,4.94,4.96,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:37:00,5.03,5.06,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:38:00,5.11,5.16,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:39:00,5.18,5.24,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:40:00,5.23,5.32,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:41:00,5.32,5.38,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:42:00,5.40,5.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:43:00,5.49,5.49,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:44:00,5.63,5.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:45:00,5.44,5.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:46:00,5.40,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:47:00,5.31,5.63,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:48:00,5.24,5.53,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:49:00,5.01,5.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:50:00,4.85,5.20,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:51:00,4.72,4.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:52:00,4.53,4.76,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:53:00,4.41,4.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:54:00,4.28,4.37,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:55:00,4.18,4.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:56:00,4.03,4.12,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:57:00,3.86,4.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:58:00,3.79,3.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 11:59:00,3.68,3.86,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:00:00,3.56,3.78,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:01:00,3.46,3.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:02:00,3.38,3.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:03:00,3.49,3.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:04:00,3.57,3.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:05:00,3.66,3.63,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:06:00,3.76,3.74,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:07:00,3.91,3.87,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:08:00,3.98,4.03,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:09:00,4.04,4.18,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:10:00,4.22,4.31,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:11:00,4.29,4.44,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:12:00,4.41,4.55,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:13:00,4.44,4.64,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:14:00,4.50,4.71,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:15:00,4.60,4.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:16:00,4.74,4.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:17:00,4.86,4.88,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:18:00,4.93,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:19:00,5.10,5.07,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:20:00,5.17,5.18,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:21:00,5.30,5.30,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:22:00,5.43,5.42,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:23:00,5.48,5.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:24:00,5.62,5.64,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:25:00,5.45,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:26:00,5.34,5.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:27:00,5.20,5.67,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:28:00,5.03,5.51,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:29:00,4.88,5.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:30:00,4.78,5.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:31:00,4.61,4.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:32:00,4.48,4.60,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:33:00,4.36,4.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:34:00,4.27,4.30,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:35:00,4.09,4.21,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:36:00,3.89,4.11,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:37:00,3.79,4.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:38:00,3.61,3.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:39:00,4.05,3.77,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:40:00,4.44,3.79,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:41:00,4.80,3.99,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 12:42:00,5.12,4.36,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:43:00,5.50,4.84,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:44:00,5.93,5.38,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:45:00,6.33,5.96,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:46:00,6.64,6.52,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:47:00,6.96,7.03,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:48:00,7.33,7.45,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:49:00,7.66,7.82,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 12:50:00,8.10,8.18,RISING,WARNING,Temperature exceeded safe upper threshold (8.18 °C > 8.0 °C)
+2026-09-30 12:51:00,8.57,8.56,RISING,WARNING,Temperature exceeded safe upper threshold (8.56 °C > 8.0 °C)
+2026-09-30 12:52:00,8.89,8.98,RISING,WARNING,Temperature exceeded safe upper threshold (8.98 °C > 8.0 °C)
+2026-09-30 12:53:00,9.23,9.36,RISING,WARNING,Temperature exceeded safe upper threshold (9.36 °C > 8.0 °C)
+2026-09-30 12:54:00,9.68,9.70,RISING,WARNING,Temperature exceeded safe upper threshold (9.70 °C > 8.0 °C)
+2026-09-30 12:55:00,10.03,10.02,RISING,WARNING,Temperature exceeded safe upper threshold (10.02 °C > 8.0 °C)
+2026-09-30 12:56:00,10.37,10.30,RISING,WARNING,Temperature exceeded safe upper threshold (10.30 °C > 8.0 °C)
+2026-09-30 12:57:00,10.80,10.54,RISING,WARNING,Temperature exceeded safe upper threshold (10.54 °C > 8.0 °C)
+2026-09-30 12:58:00,10.53,10.78,RISING,WARNING,Temperature exceeded safe upper threshold (10.78 °C > 8.0 °C)
+2026-09-30 12:59:00,10.25,10.78,RISING,WARNING,Temperature exceeded safe upper threshold (10.78 °C > 8.0 °C)
+2026-09-30 13:00:00,10.08,10.53,STABLE,WARNING,Temperature exceeded safe upper threshold (10.53 °C > 8.0 °C)
+2026-09-30 13:01:00,9.87,10.16,STABLE,WARNING,Temperature exceeded safe upper threshold (10.16 °C > 8.0 °C)
+2026-09-30 13:02:00,9.63,9.76,FALLING,WARNING,Temperature exceeded safe upper threshold (9.76 °C > 8.0 °C)
+2026-09-30 13:03:00,9.46,9.37,FALLING,WARNING,Temperature exceeded safe upper threshold (9.37 °C > 8.0 °C)
+2026-09-30 13:04:00,9.22,9.05,FALLING,WARNING,Temperature exceeded safe upper threshold (9.05 °C > 8.0 °C)
+2026-09-30 13:05:00,8.94,8.78,FALLING,WARNING,Temperature exceeded safe upper threshold (8.78 °C > 8.0 °C)
+2026-09-30 13:06:00,8.68,8.54,FALLING,WARNING,Temperature exceeded safe upper threshold (8.54 °C > 8.0 °C)
+2026-09-30 13:07:00,8.50,8.31,FALLING,WARNING,Temperature exceeded safe upper threshold (8.31 °C > 8.0 °C)
+2026-09-30 13:08:00,8.26,8.13,FALLING,WARNING,Temperature exceeded safe upper threshold (8.13 °C > 8.0 °C)
+2026-09-30 13:09:00,8.07,7.95,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:10:00,7.83,7.78,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:11:00,7.61,7.61,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:12:00,7.44,7.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:13:00,7.29,7.27,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:14:00,7.12,7.12,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:15:00,6.87,6.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:16:00,6.68,6.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:17:00,6.46,6.63,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:18:00,6.23,6.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:19:00,6.04,6.20,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:20:00,5.80,5.97,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:21:00,5.65,5.72,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:22:00,5.47,5.49,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:23:00,5.30,5.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:24:00,5.08,5.10,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:25:00,4.87,4.92,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:26:00,4.70,4.73,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:27:00,4.53,4.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:28:00,4.42,4.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:29:00,4.29,4.25,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:30:00,4.13,4.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:31:00,4.03,4.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:32:00,3.85,3.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:33:00,3.78,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:34:00,3.67,3.83,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:35:00,3.56,3.77,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:36:00,3.46,3.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:37:00,3.34,3.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:38:00,3.43,3.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:39:00,3.58,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:40:00,3.67,3.61,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:41:00,3.73,3.72,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:42:00,3.81,3.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:43:00,3.91,3.99,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:44:00,3.98,4.13,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 13:45:00,4.06,4.25,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:46:00,4.07,4.34,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:47:00,4.19,4.40,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:48:00,4.30,4.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:49:00,4.36,4.50,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:50:00,4.44,4.57,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:51:00,4.53,4.64,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:52:00,4.70,4.71,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:53:00,4.77,4.81,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:54:00,4.91,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:55:00,5.04,5.03,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:56:00,5.15,5.16,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:57:00,5.15,5.28,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:58:00,5.30,5.37,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 13:59:00,5.37,5.45,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:00:00,5.47,5.52,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:01:00,5.58,5.59,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:02:00,5.61,5.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:03:00,5.43,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:04:00,5.33,5.72,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:05:00,5.14,5.62,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:06:00,5.04,5.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:07:00,4.88,5.22,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:08:00,4.77,4.98,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:09:00,4.60,4.77,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:10:00,4.51,4.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:11:00,4.32,4.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:12:00,4.18,4.30,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:13:00,4.04,4.19,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:14:00,3.92,4.07,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:15:00,3.75,3.96,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:16:00,3.65,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:17:00,3.50,3.76,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:18:00,3.36,3.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:19:00,3.47,3.57,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:20:00,3.57,3.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:21:00,3.62,3.58,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:22:00,3.69,3.67,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:23:00,3.82,3.79,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:24:00,3.85,3.94,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:25:00,4.01,4.07,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 14:26:00,4.11,4.21,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 14:27:00,4.24,4.34,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 14:28:00,4.31,4.46,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:29:00,4.37,4.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:30:00,4.51,4.64,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:31:00,4.58,4.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:32:00,4.62,4.80,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:33:00,4.73,4.86,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:34:00,4.85,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:35:00,4.90,4.99,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:36:00,4.95,5.06,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:37:00,5.08,5.12,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:38:00,5.23,5.19,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:39:00,5.27,5.29,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:40:00,5.30,5.38,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:41:00,5.35,5.46,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:42:00,5.42,5.51,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:43:00,5.53,5.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:44:00,5.67,5.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:45:00,5.51,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:46:00,5.36,5.71,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:47:00,5.17,5.64,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:48:00,5.02,5.48,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:49:00,4.90,5.25,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:50:00,4.83,5.01,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:51:00,4.73,4.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:52:00,4.61,4.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:53:00,4.44,4.52,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:54:00,4.24,4.41,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:55:00,4.05,4.30,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:56:00,3.91,4.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:57:00,3.72,4.00,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:58:00,3.61,3.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 14:59:00,3.48,3.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:00:00,3.33,3.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:01:00,3.36,3.50,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:02:00,3.43,3.46,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:03:00,3.46,3.48,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:04:00,3.63,3.55,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:05:00,3.75,3.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:06:00,3.86,3.83,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:07:00,3.96,4.00,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:08:00,4.08,4.17,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:09:00,4.20,4.32,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:10:00,4.29,4.46,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:11:00,4.42,4.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:12:00,4.57,4.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:13:00,4.70,4.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:14:00,4.81,4.88,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:15:00,4.84,5.00,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:16:00,4.94,5.09,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:17:00,5.00,5.16,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:18:00,5.14,5.21,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:19:00,5.25,5.27,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:20:00,5.34,5.35,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:21:00,5.40,5.44,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:22:00,5.48,5.52,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:23:00,5.50,5.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:24:00,5.56,5.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:25:00,5.65,5.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:26:00,5.55,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:27:00,5.45,5.73,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:28:00,5.36,5.66,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:29:00,5.23,5.55,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:30:00,5.10,5.39,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:31:00,5.01,5.21,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:32:00,4.86,5.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:33:00,4.75,4.87,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:34:00,4.62,4.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:35:00,4.57,4.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:36:00,4.37,4.48,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:37:00,4.29,4.38,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:38:00,4.13,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:39:00,3.99,4.18,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:40:00,3.90,4.07,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:41:00,3.72,3.97,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:42:00,3.62,3.86,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:43:00,3.92,3.76,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:44:00,4.29,3.77,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:45:00,4.69,3.94,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 15:46:00,4.98,4.28,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:47:00,5.30,4.72,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:48:00,5.70,5.21,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:49:00,6.10,5.73,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:50:00,6.37,6.25,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:51:00,6.73,6.72,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:52:00,7.07,7.13,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:53:00,7.41,7.50,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:54:00,7.73,7.86,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 15:55:00,8.00,8.21,RISING,WARNING,Temperature exceeded safe upper threshold (8.21 °C > 8.0 °C)
+2026-09-30 15:56:00,8.38,8.53,RISING,WARNING,Temperature exceeded safe upper threshold (8.53 °C > 8.0 °C)
+2026-09-30 15:57:00,8.71,8.83,RISING,WARNING,Temperature exceeded safe upper threshold (8.83 °C > 8.0 °C)
+2026-09-30 15:58:00,9.09,9.13,RISING,WARNING,Temperature exceeded safe upper threshold (9.13 °C > 8.0 °C)
+2026-09-30 15:59:00,9.38,9.43,RISING,WARNING,Temperature exceeded safe upper threshold (9.43 °C > 8.0 °C)
+2026-09-30 16:00:00,9.61,9.70,RISING,WARNING,Temperature exceeded safe upper threshold (9.70 °C > 8.0 °C)
+2026-09-30 16:01:00,9.97,9.91,RISING,WARNING,Temperature exceeded safe upper threshold (9.91 °C > 8.0 °C)
+2026-09-30 16:02:00,10.25,10.11,RISING,WARNING,Temperature exceeded safe upper threshold (10.11 °C > 8.0 °C)
+2026-09-30 16:03:00,10.05,10.29,RISING,WARNING,Temperature exceeded safe upper threshold (10.29 °C > 8.0 °C)
+2026-09-30 16:04:00,9.76,10.29,STABLE,WARNING,Temperature exceeded safe upper threshold (10.29 °C > 8.0 °C)
+2026-09-30 16:05:00,9.49,10.06,STABLE,WARNING,Temperature exceeded safe upper threshold (10.06 °C > 8.0 °C)
+2026-09-30 16:06:00,9.30,9.69,FALLING,WARNING,Temperature exceeded safe upper threshold (9.69 °C > 8.0 °C)
+2026-09-30 16:07:00,9.12,9.29,FALLING,WARNING,Temperature exceeded safe upper threshold (9.29 °C > 8.0 °C)
+2026-09-30 16:08:00,8.88,8.93,FALLING,WARNING,Temperature exceeded safe upper threshold (8.93 °C > 8.0 °C)
+2026-09-30 16:09:00,8.66,8.61,FALLING,WARNING,Temperature exceeded safe upper threshold (8.61 °C > 8.0 °C)
+2026-09-30 16:10:00,8.38,8.35,FALLING,WARNING,Temperature exceeded safe upper threshold (8.35 °C > 8.0 °C)
+2026-09-30 16:11:00,8.17,8.10,FALLING,WARNING,Temperature exceeded safe upper threshold (8.10 °C > 8.0 °C)
+2026-09-30 16:12:00,7.95,7.89,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:13:00,7.75,7.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:14:00,7.49,7.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:15:00,7.28,7.35,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:16:00,6.99,7.15,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:17:00,6.74,6.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:18:00,6.49,6.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:19:00,6.23,6.44,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:20:00,6.02,6.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:21:00,5.79,5.91,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:22:00,5.61,5.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:23:00,5.43,5.41,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:24:00,5.26,5.20,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:25:00,5.01,5.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:26:00,4.77,4.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:27:00,4.66,4.64,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:28:00,4.60,4.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:29:00,4.40,4.35,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:30:00,4.21,4.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:31:00,4.09,4.14,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:32:00,4.02,4.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:33:00,3.87,3.97,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:34:00,3.73,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:35:00,3.66,3.83,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:36:00,3.58,3.76,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:37:00,3.47,3.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:38:00,3.38,3.65,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:39:00,3.44,3.61,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:40:00,3.48,3.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:41:00,3.62,3.61,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:42:00,3.73,3.69,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:43:00,3.74,3.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:44:00,3.85,3.95,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:45:00,4.05,4.07,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:46:00,4.19,4.21,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:47:00,4.28,4.37,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 16:48:00,4.41,4.51,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 16:49:00,4.55,4.64,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 16:50:00,4.62,4.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:51:00,4.75,4.87,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:52:00,4.91,4.97,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:53:00,5.06,5.08,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:54:00,5.22,5.20,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:55:00,5.33,5.33,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:56:00,5.37,5.48,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:57:00,5.49,5.59,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:58:00,5.52,5.68,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 16:59:00,5.58,5.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:00:00,5.43,5.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:01:00,5.31,5.72,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:02:00,5.20,5.60,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:03:00,5.08,5.43,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:04:00,4.93,5.23,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:05:00,4.85,5.03,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:06:00,4.82,4.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:07:00,4.72,4.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:08:00,4.57,4.62,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:09:00,4.46,4.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:10:00,4.37,4.46,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:11:00,4.16,4.38,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:12:00,3.97,4.27,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:13:00,3.84,4.12,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:14:00,3.74,3.97,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:15:00,3.57,3.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:16:00,3.50,3.71,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:17:00,3.40,3.62,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:18:00,3.54,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:19:00,3.61,3.56,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:20:00,3.64,3.63,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:21:00,3.80,3.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:22:00,3.88,3.87,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:23:00,3.93,4.02,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:24:00,3.96,4.16,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 17:25:00,4.02,4.26,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:26:00,4.12,4.33,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:27:00,4.28,4.39,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:28:00,4.34,4.45,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:29:00,4.45,4.54,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:30:00,4.55,4.63,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:31:00,4.70,4.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:32:00,4.82,4.84,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:33:00,4.93,4.97,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:34:00,5.04,5.09,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:35:00,5.11,5.20,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:36:00,5.25,5.30,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:37:00,5.35,5.39,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:38:00,5.38,5.49,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:39:00,5.44,5.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:40:00,5.58,5.61,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:41:00,5.69,5.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:42:00,5.56,5.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:43:00,5.45,5.78,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:44:00,5.24,5.72,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:45:00,5.14,5.57,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:46:00,5.02,5.35,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:47:00,4.93,5.13,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:48:00,4.91,4.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:49:00,4.70,4.79,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:50:00,4.55,4.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:51:00,4.42,4.54,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:52:00,4.24,4.42,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:53:00,4.14,4.29,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:54:00,4.02,4.17,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:55:00,3.88,4.05,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:56:00,3.81,3.94,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:57:00,3.65,3.85,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:58:00,3.52,3.78,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 17:59:00,3.44,3.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:00:00,3.31,3.63,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:01:00,3.36,3.56,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:02:00,3.45,3.52,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:03:00,3.56,3.54,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:04:00,3.69,3.62,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:05:00,3.85,3.76,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:06:00,3.97,3.93,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:07:00,4.06,4.12,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:08:00,4.14,4.30,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:09:00,4.21,4.44,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:10:00,4.30,4.54,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:11:00,4.35,4.60,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:12:00,4.50,4.64,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:13:00,4.62,4.70,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:14:00,4.73,4.78,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:15:00,4.85,4.87,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:16:00,4.98,4.98,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:17:00,5.11,5.11,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:18:00,5.20,5.24,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:19:00,5.33,5.36,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:20:00,5.37,5.47,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:21:00,5.55,5.56,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:22:00,5.67,5.66,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:23:00,5.61,5.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:24:00,5.55,5.83,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:25:00,5.40,5.82,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:26:00,5.23,5.72,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:27:00,5.07,5.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:28:00,4.91,5.30,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:29:00,4.79,5.04,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:30:00,4.70,4.80,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:31:00,4.55,4.61,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:32:00,4.39,4.47,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:33:00,4.28,4.34,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:34:00,4.59,4.24,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:35:00,4.94,4.26,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:36:00,5.26,4.45,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:37:00,5.53,4.80,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:38:00,5.86,5.24,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:39:00,6.05,5.72,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:40:00,6.35,6.18,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:41:00,6.54,6.59,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:42:00,6.87,6.92,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:43:00,7.22,7.20,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:44:00,7.46,7.50,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:45:00,7.68,7.80,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 18:46:00,7.92,8.08,RISING,WARNING,Temperature exceeded safe upper threshold (8.08 °C > 8.0 °C)
+2026-09-30 18:47:00,8.22,8.34,RISING,WARNING,Temperature exceeded safe upper threshold (8.34 °C > 8.0 °C)
+2026-09-30 18:48:00,8.37,8.58,RISING,WARNING,Temperature exceeded safe upper threshold (8.58 °C > 8.0 °C)
+2026-09-30 18:49:00,8.63,8.78,RISING,WARNING,Temperature exceeded safe upper threshold (8.78 °C > 8.0 °C)
+2026-09-30 18:50:00,8.81,8.96,RISING,WARNING,Temperature exceeded safe upper threshold (8.96 °C > 8.0 °C)
+2026-09-30 18:51:00,9.01,9.10,RISING,WARNING,Temperature exceeded safe upper threshold (9.10 °C > 8.0 °C)
+2026-09-30 18:52:00,8.78,9.23,RISING,WARNING,Temperature exceeded safe upper threshold (9.23 °C > 8.0 °C)
+2026-09-30 18:53:00,8.58,9.20,STABLE,WARNING,Temperature exceeded safe upper threshold (9.20 °C > 8.0 °C)
+2026-09-30 18:54:00,8.38,9.01,STABLE,WARNING,Temperature exceeded safe upper threshold (9.01 °C > 8.0 °C)
+2026-09-30 18:55:00,8.10,8.72,FALLING,WARNING,Temperature exceeded safe upper threshold (8.72 °C > 8.0 °C)
+2026-09-30 18:56:00,7.91,8.36,FALLING,WARNING,Temperature exceeded safe upper threshold (8.36 °C > 8.0 °C)
+2026-09-30 18:57:00,7.72,8.01,FALLING,WARNING,Temperature exceeded safe upper threshold (8.01 °C > 8.0 °C)
+2026-09-30 18:58:00,7.45,7.70,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 18:59:00,7.24,7.41,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:00:00,7.06,7.16,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:01:00,6.84,6.94,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:02:00,6.57,6.75,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:03:00,6.32,6.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:04:00,6.05,6.29,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:05:00,5.86,6.02,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:06:00,5.63,5.75,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:07:00,5.43,5.49,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:08:00,5.25,5.25,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:09:00,5.09,5.03,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:10:00,4.89,4.84,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:11:00,4.70,4.68,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:12:00,4.61,4.53,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:13:00,4.40,4.40,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:14:00,4.32,4.28,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:15:00,4.13,4.18,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:16:00,4.00,4.09,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:17:00,3.87,3.99,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:18:00,3.74,3.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:19:00,3.60,3.81,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:20:00,3.53,3.73,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:21:00,3.50,3.66,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:22:00,3.37,3.61,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:23:00,3.49,3.58,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:24:00,3.57,3.58,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:25:00,3.67,3.65,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:26:00,3.82,3.75,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:27:00,3.98,3.90,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:28:00,4.04,4.08,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 19:29:00,4.10,4.25,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 19:30:00,4.26,4.38,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 19:31:00,4.33,4.51,RISING,EARLY WARNING,Continuous abnormal temperature increase detected (RISING trend)
+2026-09-30 19:32:00,4.39,4.61,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:33:00,4.53,4.67,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:34:00,4.64,4.74,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:35:00,4.78,4.82,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:36:00,4.84,4.92,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:37:00,4.92,5.02,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:38:00,5.04,5.11,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:39:00,5.22,5.19,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:40:00,5.29,5.30,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:41:00,5.40,5.42,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:42:00,5.48,5.53,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:43:00,5.63,5.62,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:44:00,5.53,5.73,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:45:00,5.49,5.77,SLIGHT RISE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:46:00,5.37,5.76,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:47:00,5.32,5.66,STABLE,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:48:00,5.27,5.51,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:49:00,5.15,5.37,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:50:00,4.99,5.22,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:51:00,4.88,5.06,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:52:00,4.76,4.90,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:53:00,4.52,4.75,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:54:00,4.34,4.59,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:55:00,4.17,4.40,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:56:00,4.08,4.22,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:57:00,3.95,4.06,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:58:00,3.82,3.93,FALLING,NORMAL,Operating within safe cold-storage range
+2026-09-30 19:59:00,3.67,3.84,FALLING,NORMAL,Operating within safe cold-storage range

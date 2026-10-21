@@ -1,0 +1,38 @@
+{
+    "total_predictions": 1190,
+    "normal_count": 929,
+    "early_warning_count": 129,
+    "warning_count": 132,
+    "rising_trend_detections": 187,
+    "maximum_predicted_temperature": 10.78,
+    "minimum_predicted_temperature": 3.46,
+    "safety_thresholds": {
+        "safe_min_celsius": 2.0,
+        "safe_max_celsius": 8.0,
+        "trend_window_steps": 4,
+        "min_rise_delta_celsius": 0.4
+    },
+    "sample_cases": {
+        "early_warning": {
+            "Timestamp": "2026-09-30 00:41:00",
+            "Actual_Temperature": 3.95,
+            "Predicted_Temperature": 4.11,
+            "Trend": "RISING",
+            "Risk_Level": "EARLY WARNING",
+            "Alert": "Continuous abnormal temperature increase detected (RISING trend)"
+        },
+        "warning": {
+            "Timestamp": "2026-09-30 02:16:00",
+            "Actual_Temperature": 7.86,
+            "Predicted_Temperature": 8.04,
+            "Trend": "RISING",
+            "Risk_Level": "WARNING",
+            "Alert": "Temperature exceeded safe upper threshold (8.04 \u00b0C > 8.0 \u00b0C)"
+        }
+    },
+    "artifacts_generated": [
+        "data\\processed\\risk_predictions.csv",
+        "models\\risk_detection_plot.png",
+        "models\\risk_summary.json"
+    ]
+}
